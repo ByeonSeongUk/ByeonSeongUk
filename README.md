@@ -2,7 +2,7 @@
 
 <h2 align="center">Project link&nbsp;📋</h2>
 <div align="center" style="margin-bottom: 2%;">
-  <h4 align="center"><a href="https://github.com/jiraynor/RealtimeAuction"> Realtime Auction Project </h4>
+  <h4 align="center"><a href="https://github.com/ByeonSeongUk/RealtimeAuction"> Realtime Auction Project </h4>
   <h4 align="center"><a href="https://github.com/ByeonSeongUk/ERP_Project"> ERP Project </h4>
   <h4 align="center"><a href="https://github.com/ByeonSeongUk/SIDIZ_Project"> SIDIZ Project </h4>
   <h4 align="center"><a href="https://github.com/ByeonSeongUk/BBS_Spring_Project"> BBS Spring Project </h4>
